@@ -86,7 +86,7 @@ Genre : 3D | Racing | Hero-Based
 1. Summoning a stone that block a partial space of the road
 
 ### Roar
-1. Make the targetted enemy (can be everyone) immovable for 2 secs. Still can use the ability
+1. Make the existing enemy in front of him immovable for 1,5 secs. Enemy still can use the ability
 2. Unpreventable
 
 ### Get Outta My Way
