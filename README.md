@@ -1,5 +1,5 @@
-# Hack Race
-Genre : 3D | Racing | Hero-Based
+# Laplace
+Genre : 3D | Racing | Hero-Based | Multiplayer
 
 ## Mechanics
 1. WASD for movement
